@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_number": "635033162668",
+    "firebase_url": "https://daily-list-705bb.firebaseio.com",
+    "project_id": "daily-list-705bb",
+    "storage_bucket": "daily-list-705bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635033162668:android:165598b160fcc209",
+        "android_client_info": {
+          "package_name": "myapplication.ujjwol.com.dailylist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635033162668-hgpm5d909iovjcunk0uipfdk52f2cv8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "myapplication.ujjwol.com.dailylist",
+            "certificate_hash": "b3baaebbdd01697c2eebfb4ea4eaee7e6134ed9c"
+          }
+        },
+        {
+          "client_id": "635033162668-7cgdrjso62tc2c8s6tubgc3iuubpga35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "myapplication.ujjwol.com.dailylist",
+            "certificate_hash": "e504675fc152ab5f58dc605e16700b288ffd0b14"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ-yb52CKSq_ajWXQrfSA9XOdQ4foL2Qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635033162668-7np1e0tq0it3pshoc7gq2ak3gmukfd6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
